@@ -3,3 +3,4 @@ SELECT DISTINCT firstname
 FROM users;
 
 -- 2. Выведите количество мужчин старше 35 лет [COUNT].
+-- 3. Сколько заявок в друзья в каждом статусе? (таблица friend_requests) [GROUP BY].
